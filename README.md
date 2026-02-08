@@ -16,7 +16,6 @@ A responsive Amazon clone built with HTML and CSS.
 ```bash
 git clone https://github.com/UpputuriAnil/Amazon-Clone.git
 cd Amazon-Clone
-python -m http.server 8000
 ```
 Visit `http://localhost:8000`
 
